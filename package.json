@@ -1,6 +1,6 @@
 {
   "name": "dane",
-  "version": "4.2.0",
+  "version": "4.2.1",
   "description": "A dane npm module",
   "main": "index.js",
   "scripts": {
