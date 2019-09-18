@@ -1,0 +1,25 @@
+{
+  "name": "dane",
+  "version": "4.2.0",
+  "description": "A dane npm module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'toast. toast.'"
+  },
+  "bin": {
+    "dane": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trondpet/dane.git"
+  },
+  "keywords": [
+    "dane"
+  ],
+  "author": "Trond Pettersen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trondpet/dane/issues"
+  },
+  "homepage": "https://github.com/trondpet/dane#readme"
+}
