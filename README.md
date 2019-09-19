@@ -1,3 +1,7 @@
 # dane
 
-A dane node module that loans funny quotes form https://seinfeld-quotes.herokuapp.com/
+A dane node module that loans funny quotes from https://seinfeld-quotes.herokuapp.com/.
+
+## usage
+
+`npx dane`
